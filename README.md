@@ -1,10 +1,10 @@
-# Project Title: Restaurant Orders Analysis
+# Project Title: Restaurant Business Analysis
 
 ##### Database: restaurant_db
 
 ### Description
 
-This project was undertaken to demonstrate my SQL skills and techniques to explore the records in database tables and analyze the Restaurant Order data. The project involved setting up a restaurant database using MYSQL Workbench, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries.
+This project was undertaken to demonstrate my SQL skills and techniques to explore the records in database tables and analyze the a Restaurant Business data. The project involved setting up a restaurant database using MYSQL Workbench, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries.
 
 ### Objectives
 1.	Explore the Menu Items Table
