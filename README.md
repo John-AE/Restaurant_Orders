@@ -7,7 +7,7 @@
 This project was undertaken to demonstrate my SQL skills and techniques to explore the records in database tables and analyze the Restaurant Order data. The project involved setting up a restaurant database using MYSQL Workbench, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries.
 
 ### Objectives
-1.	Explore The Items Table
+1.	Explore the Menu Items Table
 2.	Explore the Orders Table
 3.	Analyze Customer Behavior
 
