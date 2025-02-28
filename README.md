@@ -44,5 +44,10 @@ During the exploration, some questions were answered such as:
 
 ![Exploring the orders table](pjc_02_03.JPG)
 
+### Analyzing Customer Behavior
+During the exploration, some questions were answered such as:
+- What were the least and most ordered items? What categories were they in?
+- What were the top 5 orders that spent the most money?
+- Determining the details of the top 5 highest spend and gathering insights can you gather from the results?
 
-
+![Analyzing the behavior of customers](pjc_02_04.JPG)
